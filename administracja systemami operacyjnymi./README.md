@@ -1,1 +1,0 @@
-# Administracja systemami operacyjnymi
