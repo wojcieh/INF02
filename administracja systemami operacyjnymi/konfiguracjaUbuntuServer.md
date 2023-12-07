@@ -1,3 +1,9 @@
+### Konfiguracja poinstalacyjna
+```
+sudo touch /etc/cloud/cloud-init.disabled
+```
+
+
 ### Zamiana netplanu na network-manager
 1. utworzenie nowego pliku konfiguracyjnego dla netplanu
 ```
