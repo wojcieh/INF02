@@ -1,5 +1,9 @@
 # INF02
  INF.02. Administracja i eksploatacja systemów komputerowych, urządzeń peryferyjnych i lokalnych sieci komputerowych 
+## Zadania
+- [Administracja systemu linux - Zadanie](https://docs.google.com/document/d/1zRBwGfg_OE82bpC9YihwUVOKga_ND_1HOZFgXjyU5SA/edit?usp=sharing)
+
+ 
  - [Systemy operacyjne](https://github.com/wojcieh/INF02/tree/main/systemy%20operacyjne)
  - [Administracja systemami operacyjnymi](https://github.com/wojcieh/INF02/tree/main/administracja%20systemami%20operacyjnymi)
 
