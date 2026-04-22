@@ -91,15 +91,6 @@ Zapisz zmiany i zaktualizuj konfigurację:
 sudo netplan apply
 ```
 
-**Krok 2: Odświeżenie dzierżawy DHCP poleceniem dhclient**
-Aby mieć pewność, że interfejs pobrał nową adresację i stara dzierżawa została zwolniona, użyj narzędzia `dhclient` (zastąp `enp0s3` nazwą swojej karty):
-
-```bash
-sudo dhclient -r enp0s3   # Zwolnienie obecnej dzierżawy (release)
-sudo dhclient enp0s3      # Pobranie nowej dzierżawy adresu IP
-```
-
----
 
 ### Część 3: Diagnostyka i weryfikacja ustawień
 
